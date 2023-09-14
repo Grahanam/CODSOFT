@@ -5,11 +5,7 @@
 
 Follow these steps to get started with the project:
 
-- Clone this responsitory.
 
-```bash
-
-```
 - Go to project directory
 ```bash
 cd frontend
